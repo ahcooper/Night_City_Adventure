@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NightCityAdventure.vcxproj" Id="43d26a14-cca1-4189-a91c-77b13105fa3f" />
+</Solution>
